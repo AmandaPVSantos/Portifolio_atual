@@ -1,7 +1,0 @@
-# Ignorar arquivos de Perl
-*.pl
-*.pm
-
-# Ignorar arquivos de Shell
-*.sh
-*.bash
