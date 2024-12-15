@@ -1,0 +1,256 @@
+/* Responsividade */
+
+@media (max-width: 1800px) {
+    /* .main-contato {
+        margin: 200px 20px 130px 20px;
+        flex-direction: column; 
+    } */
+
+    .titulo-contato h1 {
+        font-size: 3em; 
+        text-align: center;
+    }
+
+    /* .paragrafos-contato p,
+    .tipos-de-contato {
+        font-size: 1.2em; 
+    } */
+
+    /* .conteudo-principal-contato {
+        margin: 5%;
+        padding: 5%;
+    } */
+
+    .imagem-div-contato img {
+        margin: 30px 40px 20px 80px;
+        height: auto;
+        width: 80%;
+        border-radius: 30%;
+    }
+}
+
+@media (max-width: 1280px) {
+    /* .main-contato {
+        margin: 200px 20px 130px 20px;
+        flex-direction: column; 
+    } */
+
+    .titulo-contato h1 {
+        font-size: 3em; 
+        text-align: center;
+    }
+
+    /* .paragrafos-contato p,
+    .tipos-de-contato {
+        font-size: 1.2em; 
+    } */
+
+    /* .conteudo-principal-contato {
+        margin: 5%;
+        padding: 5%;
+    } */
+
+    .imagem-div-contato img {
+        margin: 30px 40px 20px 80px;
+        height: auto;
+        width: 80%;
+        border-radius: 30%;
+    }
+}
+
+@media (max-width: 768px) {
+    .main-contato {
+        margin: 200px 20px 130px 20px;
+        flex-direction: column; 
+    }
+
+    .titulo-contato h1 {
+        font-size: 3em; 
+        text-align: center;
+    }
+
+    .paragrafos-contato p,
+    .tipos-de-contato {
+        font-size: 1.2em; 
+    }
+
+    .conteudo-principal-contato {
+        margin: 5%;
+        padding: 5%;
+    }
+
+    .imagem-div-contato img {
+        margin: 100px 90px 20px 80px;
+        height: auto;
+        width: 80%;
+        border-radius: 30%;
+    }
+}
+
+@media (max-width: 568px) {
+    .main-contato {
+        margin: 3% 1%;
+    }
+
+    .titulo-contato h1 {
+        font-size: 2em;
+        text-align: center;
+    }
+
+    .paragrafos-contato p,
+    .tipos-de-contato {
+        font-size: 0.9em;
+    }
+
+    .conteudo-principal-contato {
+        margin: 3%;
+        padding: 3%;
+    }
+
+    .imagem-div-contato img {
+        margin: 3% auto;
+        height: auto;
+        width: 90%;
+        border-radius: 10%;
+    }
+}
+
+/* Media Query para telas de 360px */
+@media (max-width: 360px) {
+    .titulo-contato h1 {
+        font-size: 30px;
+    }
+
+    .paragrafos-contato p {
+        font-size: 18px;
+    }
+
+    .tipos-de-contato {
+        font-size: 18px;
+    }
+
+    .conteudo-principal-contato {
+        margin: 10px;
+    }
+
+    .imagem-div-contato img {
+        margin-top: 10px;
+        margin-right: 14px;
+    }
+}
+
+/* Media Query para telas de 390px */
+@media (max-width: 390px) {
+    .titulo-contato h1 {
+        font-size: 35px;
+    }
+
+    .paragrafos-contato p {
+        font-size: 20px;
+    }
+
+    .tipos-de-contato {
+        font-size: 20px;
+    }
+
+    .conteudo-principal-contato {
+        margin: 15px;
+    }
+
+    .imagem-div-contato img {
+        margin-top: 15px;
+        margin-right: 12px;
+    }
+}
+
+/* Media Query para telas de 375px */
+@media (max-width: 375px) {
+
+    .main-contato {
+        margin-top: 150px;
+        margin-bottom: 50px;
+    }
+
+    .titulo-contato h1 {
+        font-size: 33px;
+    }
+
+    .paragrafos-contato p {
+        font-size: 19px;
+    }
+
+    .tipos-de-contato {
+        font-size: 19px;
+    }
+
+    .conteudo-principal-contato {
+        margin: 15px;
+    }
+
+    .imagem-div-contato img {
+        margin-top: 300px;
+        margin-left: 20px;
+        border-radius: 99px;
+    }
+}
+
+/* Media Query para telas de 414px */
+@media (max-width: 414px) {
+
+    .main-contato {
+        margin-top: 150px;
+        margin-bottom: 50px;
+    }
+
+    .titulo-contato h1 {
+        font-size: 40px;
+    }
+
+    .paragrafos-contato p {
+        font-size: 22px;
+    }
+
+    .tipos-de-contato {
+        font-size: 22px;
+    }
+
+    .conteudo-principal-contato {
+        margin: 18px;
+    }
+
+    .imagem-div-contato img {
+        margin-top: 18px;
+        margin-left: 25px;
+        border-radius: 110px;
+    }
+}
+
+@media (max-width: 320px) {
+    .main-contato {
+        margin-top: 160px;
+        margin-bottom: 50px;
+    }
+
+    .titulo-contato h1 {
+        font-size: 25px;
+    }
+
+    .paragrafos-contato p {
+        font-size: 16px;
+    }
+
+    .tipos-de-contato {
+        font-size: 16px;
+    }
+
+    .conteudo-principal-contato {
+        margin: 10px;
+    }
+
+    .imagem-div-contato img {
+        height: AUTO;
+        width: 86%;
+        margin-top: 50PX;
+        border-radius: 99px;
+    }
+}

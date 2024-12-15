@@ -1,0 +1,51 @@
+/* Container main cards*/
+.container_main_cards {
+    margin: 190px 30px 90px 30px;
+}
+
+/* Titulo - Projetos*/
+.titulo-projetos h2 {
+    color: #000;
+    font-size: 100px;
+    font-family: "Great Vibes", cursive;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+/* estilo dos cards*/
+.card-text {
+    color: #000;
+    text-align: center;
+}
+
+.card:hover {
+    background-color: #BFD3C1;
+}
+
+/* Estilo do modal */
+.container_texto_modal {
+    padding: 20px;
+}
+
+.modal-title {
+    color: #000;
+    font-size: 24px;
+}
+
+.modal-body p {
+    color: #000;
+    line-height: 1.5;
+}
+
+.conteudo-projeto {
+    margin: 30px;
+}
+
+#botao-padrao {
+    background-color: #BFD3C1;
+    color: #fff;
+}
+
+#botao-padrao:hover {
+    background-color: rgba(238, 38, 38, 0.5);
+}
